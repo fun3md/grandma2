@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.malighting.de/grandma2/xml/MA" xsi:schemaLocation="http://schemas.malighting.de/grandma2/xml/MA http://schemas.malighting.de/grandma2/xml/3.6.1/MA.xsd" major_vers="3" minor_vers="6" stream_vers="1">
+	<Info datetime="2025-07-06T14:39:46" showfile="cozyaep" />
+	<MidiRemotes index="1">
+		<RemoteMidi index="0" note="26" channel="2" type="hardkey" tasten_code="Store" />
+		<RemoteMidi index="1" note="16" channel="1" type="exec" exec="30" page="2" button_type="fader" />
+		<RemoteMidi index="2" note="17" channel="1" type="exec" exec="40" page="2" button_type="fader" />
+		<RemoteMidi index="3" note="18" channel="1" type="exec" exec="50" page="2" button_type="fader" />
+		<RemoteMidi index="4" note="19" channel="1" type="exec" exec="60" page="2" button_type="fader" />
+		<RemoteMidi index="5" note="20" channel="1" type="exec" exec="31" page="2" button_type="fader" />
+		<RemoteMidi index="6" note="21" channel="1" type="exec" exec="41" page="2" button_type="fader" />
+		<RemoteMidi index="7" note="22" channel="1" type="exec" exec="51" page="2" button_type="fader" />
+		<RemoteMidi index="8" note="23" channel="1" type="exec" exec="61" page="2" button_type="fader" />
+		<RemoteMidi index="9" note="24" channel="1" type="exec" exec="32" page="2" button_type="fader" />
+		<RemoteMidi index="10" note="25" channel="1" type="exec" exec="42" page="2" button_type="fader" />
+		<RemoteMidi index="11" note="26" channel="1" type="exec" exec="52" page="2" button_type="fader" />
+		<RemoteMidi index="12" note="27" channel="1" type="exec" exec="62" page="2" button_type="fader" />
+		<RemoteMidi index="13" note="28" channel="1" type="exec" exec="33" page="2" button_type="fader" />
+		<RemoteMidi index="14" note="29" channel="1" type="exec" exec="43" page="2" button_type="fader" />
+		<RemoteMidi index="15" note="31" channel="1" type="exec" exec="63" page="2" button_type="fader" />
+		<RemoteMidi index="16" note="32" channel="1" type="exec" exec="34" page="2" button_type="fader" />
+		<RemoteMidi index="17" note="46" channel="1" type="exec" exec="34" page="2" button_type="fader" />
+		<RemoteMidi index="18" note="47" channel="1" type="exec" exec="44" page="2" button_type="fader" />
+		<RemoteMidi index="19" note="48" channel="1" type="exec" exec="54" page="2" button_type="fader" />
+		<RemoteMidi index="20" note="49" channel="1" type="exec" exec="64" page="2" button_type="fader" />
+		<RemoteMidi index="21" note="50" channel="1" type="exec" exec="35" page="2" button_type="fader" />
+		<RemoteMidi index="22" note="51" channel="1" type="exec" exec="45" page="2" button_type="fader" />
+		<RemoteMidi index="23" note="52" channel="1" type="exec" exec="55" page="2" button_type="fader" />
+		<RemoteMidi index="24" note="53" channel="1" type="exec" exec="65" page="2" button_type="fader" />
+		<RemoteMidi index="25" note="54" channel="1" type="exec" exec="36" page="2" button_type="fader" />
+		<RemoteMidi index="26" note="55" channel="1" type="exec" exec="46" page="2" button_type="fader" />
+		<RemoteMidi index="27" note="56" channel="1" type="exec" exec="56" page="2" button_type="fader" />
+		<RemoteMidi index="28" note="57" channel="1" type="exec" exec="66" page="2" button_type="fader" />
+		<RemoteMidi index="29" note="58" channel="1" type="exec" exec="37" page="2" button_type="fader" />
+		<RemoteMidi index="30" note="59" channel="1" type="exec" exec="47" page="2" button_type="fader" />
+		<RemoteMidi index="31" note="60" channel="2" type="exec" exec="57" page="2" button_type="top" />
+		<RemoteMidi index="32" note="61" channel="1" type="exec" exec="67" page="2" button_type="fader" />
+		<RemoteMidi index="33" note="62" channel="1" type="exec" exec="68" page="2" button_type="fader" />
+		<RemoteMidi index="34" note="1" channel="2" type="exec" exec="60" page="2" button_type="top" />
+		<RemoteMidi index="35" note="2" channel="2" type="exec" exec="60" page="2" button_type="above_fader" />
+		<RemoteMidi index="36" note="3" channel="2" type="exec" exec="60" page="2" />
+		<RemoteMidi index="37" note="4" channel="2" type="exec" exec="61" page="2" button_type="top" />
+		<RemoteMidi index="38" note="5" channel="2" type="exec" exec="61" page="2" button_type="above_fader" />
+		<RemoteMidi index="39" note="6" channel="2" type="exec" exec="61" page="2" />
+		<RemoteMidi index="40" note="7" channel="2" type="exec" exec="62" page="2" button_type="top" />
+		<RemoteMidi index="41" note="8" channel="2" type="exec" exec="62" page="2" button_type="above_fader" />
+		<RemoteMidi index="42" note="9" channel="2" type="exec" exec="62" page="2" />
+		<RemoteMidi index="43" note="10" channel="2" type="exec" exec="63" page="2" button_type="top" />
+		<RemoteMidi index="44" note="11" channel="2" type="exec" exec="63" page="2" button_type="above_fader" />
+		<RemoteMidi index="45" note="12" channel="2" type="exec" exec="63" page="2" />
+		<RemoteMidi index="46" note="13" channel="2" type="exec" exec="64" page="2" button_type="top" />
+		<RemoteMidi index="47" note="14" channel="2" type="exec" exec="64" page="2" button_type="above_fader" />
+		<RemoteMidi index="48" note="15" channel="2" type="exec" exec="64" page="2" />
+		<RemoteMidi index="49" note="16" channel="2" type="exec" exec="65" page="2" button_type="top" />
+		<RemoteMidi index="50" note="17" channel="2" type="exec" exec="65" page="2" button_type="above_fader" />
+		<RemoteMidi index="51" note="18" channel="2" type="exec" exec="65" page="2" />
+		<RemoteMidi index="52" note="19" channel="2" type="exec" exec="66" page="2" button_type="top" />
+		<RemoteMidi index="53" note="20" channel="2" type="exec" exec="66" page="2" button_type="above_fader" />
+		<RemoteMidi index="54" note="21" channel="2" type="exec" exec="66" page="2" />
+		<RemoteMidi index="55" note="22" channel="2" type="exec" exec="67" page="2" button_type="top" />
+		<RemoteMidi index="56" note="23" channel="2" type="exec" exec="67" page="2" button_type="above_fader" />
+		<RemoteMidi index="57" note="24" channel="2" type="exec" exec="67" page="2" />
+		<RemoteMidi index="58" note="25" channel="2" type="hardkey" tasten_code="Learn" />
+	</MidiRemotes>
+</MA>
